@@ -44,5 +44,3 @@ Analisis ini bertujuan untuk memprediksi produksi padi di Indonesia berdasarkan 
 
 ---
 
-## Catatan
-Pendekatan ini menggunakan asumsi hubungan linier antara produksi padi di tahun-tahun berturut-turut. Untuk meningkatkan akurasi, model yang lebih kompleks seperti Random Forest atau LSTM dapat digunakan.
