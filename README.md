@@ -39,6 +39,8 @@ Analisis ini bertujuan untuk memprediksi produksi padi di Indonesia berdasarkan 
 ### Prediksi Produksi Padi
 - **2023:** 54,928,021.58 ton  
 - **2024:** 55,502,340.65 ton  
+![image](https://github.com/user-attachments/assets/fbb3ff5f-29ff-4e4e-9057-ce141e4e0ceb)
+
 
 ---
 
