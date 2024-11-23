@@ -1,6 +1,7 @@
 # Prediksi Produksi Padi Menggunakan Regresi Linear
 
 # created by : Matthew Raymond Hartono
+## NIM : A11.2021.13275
 
 ## Deskripsi Proyek
 Analisis ini bertujuan untuk memprediksi produksi padi di Indonesia berdasarkan data historis dari tahun 1970 hingga 2022. Proses ini dilakukan menggunakan model regresi linear sederhana dengan langkah-langkah berikut.
